@@ -1,1 +1,3 @@
-4 + 5
+function externalLibraryFunction() {
+  console.log('this is from an external library');
+}
